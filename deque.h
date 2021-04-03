@@ -1,7 +1,5 @@
 // This is a module that provides a deque of integers ADT
 
-// SEASHELL_READONLY
-
 #include <stdbool.h>
 
 struct deque;
